@@ -59,8 +59,12 @@ ul, ol {
   padding-left: 20px;
 }
 
+pre{
+  background-color:#f4f4f4;
+}
+
 code {
-  background-color: #f4f4f4;
+  background-color: #c7c7c7;
   padding: 2px 4px;
   border-radius: 4px;
   font-family: monospace;
